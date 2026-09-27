@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @narendra967967
-- 👀 I’m interested in Web Development, App development
-- 🌱 I’m currently learning ...Node Js
-- 💞️ I’m looking to collaborate on ...Python and Node Js
-- 📫 How to reach me through my website https://narendragpt.com
+* 👋 Hi, I’m @narendra967967
+* 💼 Delivery Manager with 6+ years in B2B SaaS, AI, IoT and real-time data, leading end-to-end delivery, enterprise rollouts, POCs and cross-functional teams.
+* 🚀 Interested in Product Management, AI/GenAI, SaaS, Web & App Development
+* 🤝 Open to collaborating on SaaS, AI projects
 
 <!---
 narendra967967/narendra967967 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
