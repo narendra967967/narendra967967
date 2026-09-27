@@ -1,4 +1,4 @@
-* 👋 Hi, I’m @narendra967967
+* 👋 Hi, I’m Narendra Gupta
 * 💼 Delivery Manager with 6+ years in B2B SaaS, AI, IoT and real-time data, leading end-to-end delivery, enterprise rollouts, POCs and cross-functional teams.
 * 🚀 Interested in Product Management, AI/GenAI, SaaS, Web & App Development
 * 🤝 Open to collaborating on SaaS, AI projects
